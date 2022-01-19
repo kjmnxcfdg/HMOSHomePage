@@ -1464,7 +1464,7 @@ require(['jquery'], function($) {
 					"quark": "https://quark.sm.cn/s?q=%s",
 					"google": "https://google.com/search?q=%s",
 					"bing": "https://cn.bing.com/search?q=%s",
-					"sm": "https://m.sm.cn/s?q=%s",
+					"ecosia": "https://www.ecosia.org/search?q=%s",
 					"360": "https://so.com/s?q=%s",
 					"sogou": "https://sogou.com/web/searchList.jsp?keyword=%s",
 					"diy": settings.get('diyEngines')
@@ -1660,30 +1660,30 @@ require(['jquery'], function($) {
 					"url": "v2ex.com"
 				}],
 				"视频": [{
-					"hl": "斗鱼",
-					"shl": "每个人的直播平台",
+					"hl": "555电影",
+					"shl": "在线电影网-最新欧美剧",
 					"img": "douyu",
-					"url": "douyu.com"
+					"url": "www.555dy.cc"
 				}, {
-					"hl": "虎牙",
-					"shl": "中国领先的互动直播平台",
+					"hl": "真不卡",
+					"shl": "高清资源，速度快",
 					"img": "huya",
-					"url": "huya.com"
+					"url": "https://www.zhenbuka3.com/"
 				}, {
-					"hl": "抖音",
-					"shl": "记录美好生活的视频平台",
+					"hl": "瓜皮TV",
+					"shl": "免费无广告高清电影电视剧影视网站",
 					"img": "douyin",
-					"url": "douyin.com"
+					"url": "https://www.dijiaxia.com/"
 				}, {
-					"hl": "CC直播",
-					"shl": "网易旗下直播平台",
+					"hl": "低端影视",
+					"shl": "超清在线视频站",
 					"img": "cc",
-					"url": "cc.163.com"
+					"url": "https://ddrk.me/"
 				}, {
-					"hl": "B站",
-					"shl": "国内知名视频弹幕网站",
+					"hl": "COKEMV影视",
+					"shl": "COKEMV影视 在线1080P电影",
 					"img": "bilibili",
-					"url": "bilibili.com"
+					"url": "https://cokemv.me/"
 				}, {
 					"hl": "爱奇艺",
 					"shl": "中国领先的视频门户",
@@ -2093,8 +2093,8 @@ require(['jquery'], function($) {
 					"t": "必应搜索",
 					"v": "bing"
 				}, {
-					"t": "神马搜索",
-					"v": "sm"
+					"t": "ECOSIA",
+					"v": "ecosia"
 				}, {
 					"t": "360搜索",
 					"v": "360"
