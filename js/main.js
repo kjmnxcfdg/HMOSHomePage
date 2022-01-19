@@ -543,32 +543,32 @@ require(['jquery'], function($) {
 				"url": "https://airportal.cn",
 				"icon": "img/bookmarks/airportal.png"
 			}, {
-				"name": "CSDN",
-				"url": "https://csdn.net",
+				"name": "福利吧",
+				"url": "https://fuliba2021.net",
 				"icon": "img/bookmarks/csdn.png"
 			}, {
-				"name": "Github",
-				"url": "https://github.com",
+				"name": "423Down",
+				"url": "https://www.423down.com",
 				"icon": "img/bookmarks/github.png"
 			}, {
-				"name": "Gitee",
-				"url": "https://gitee.com",
+				"name": "简单导航",
+				"url": "https://123.laoyue.vip",
 				"icon": "img/bookmarks/gitee.png"
 			}, {
-				"name": "抖音",
-				"url": "https://douyin.com",
+				"name": "去水印",
+				"url": "https://video.ciding.cc",
 				"icon": "img/bookmarks/douyin.png"
 			}, {
-				"name": "B站",
-				"url": "https://bilibili.com",
+				"name": "比特币",
+				"url": "https://finance.sina.com.cn/money/forex/hq/BTCBTCUSD.shtml",
 				"icon": "img/bookmarks/bilibili.png"
 			}, {
-				"name": "爱奇艺",
-				"url": "https://iqiyi.com",
+				"name": "饭团影院",
+				"url": "https://fantuan.tv",
 				"icon": "img/bookmarks/iqiyi.png"
 			}, {
-				"name": "腾讯视频",
-				"url": "https://v.qq.com",
+				"name": "真不卡",
+				"url": "https://www.zhenbuka3.com",
 				"icon": "img/bookmarks/tencentvideo.png"
 			}],
 		};
@@ -1459,7 +1459,7 @@ require(['jquery'], function($) {
 				window.via.searchText(text);
 			} else {
 				location.href = {
-					"baidu": "https://m.baidu.com/s?wd=%s",
+					"ecosia": "https://www.ecosia.org/search?q=%s",
 					"baiduPC": "https://www.baidu.com/s?wd=%s",
 					"quark": "https://quark.sm.cn/s?q=%s",
 					"google": "https://google.com/search?q=%s",
@@ -2075,8 +2075,8 @@ require(['jquery'], function($) {
 				"type": "select",
 				"value": "engines",
 				"data": [{
-					"t": "手机百度",
-					"v": "baidu"
+					"t": "ECOSIA",
+					"v": "ecosia"
 				}, {
 					"t": "百度搜索",
 					"v": "baiduPC"
